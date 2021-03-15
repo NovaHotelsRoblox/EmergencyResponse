@@ -7,4 +7,4 @@ Chrome Extension: [Press Here](https://chrome.google.com/webstore/detail/tamperm
 
 Code: [Press Here](https://github.com/NovaHotelsRoblox/EmergencyResponse/raw/main/er.js)
 
-Tutorial: [Insert Here]
+Tutorial: [Click Here](https://www.youtube.com/watch?v=Ya6_UhIvug8)

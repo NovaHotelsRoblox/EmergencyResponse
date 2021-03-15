@@ -18,7 +18,7 @@ function GetURLParameter(sParam){
         }
     }
 }
-function main(){
+function emergencyresponse(){
     var PlaceID = 4499855755
     var gameid = GetURLParameter("gameid");
     console.log("gameid: "+gameid+" placeid: "+PlaceID);
@@ -26,4 +26,4 @@ function main(){
         Roblox.GameLauncher.joinGameInstance(PlaceID, gameid);
     }
 }
-document.body.onload = main();
+document.body.onload = emergencyresponse();

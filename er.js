@@ -28,4 +28,3 @@ function emergencyresponse(){
     }
 }
 document.body.onload = emergencyresponse();
-document.body.onload = emergencyresponse();

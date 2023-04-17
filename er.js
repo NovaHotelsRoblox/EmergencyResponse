@@ -3,7 +3,7 @@
 // @namespace    name?
 // @version      1.0.1
 // @description  Script for Nova Emergency Response!
-// @author       Nova Hotels LTD
+// @author       Jaminio Studios
 // @match        http*://*.roblox.com/games/*
 // @grant        none
 // ==/UserScript==
